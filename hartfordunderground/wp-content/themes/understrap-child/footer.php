@@ -21,7 +21,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 			<div class="col-md-12">
 
-				<footer class="site-footer" id="colophon">
+				<footer class="site-footer" id="colophon" style="text-align: center;">
 
 					<div class="site-info">
                         <a><?php printf('Connecticut Swing Dance Society: 501(c)3 ID #061379335') ?></a>
